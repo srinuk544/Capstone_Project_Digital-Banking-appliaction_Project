@@ -1,0 +1,6 @@
+server:
+  port: 1111   # Admin Server will run on port 1111
+
+spring:
+  application:
+    name: 2-Admin-Server

@@ -1,0 +1,55 @@
+package com.example.demo.controller;
+
+import java.math.BigDecimal;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+
+import com.example.demo.entity.Account;
+import com.example.demo.service.AccountService;
+
+@RestController
+@RequestMapping("/accounts")
+public class AccountController {
+
+    @Autowired
+    private AccountService accountService;
+
+    public AccountController(AccountService accountService) {
+        this.accountService = accountService;
+    }
+
+
+    @PostMapping
+    public ResponseEntity<Account> create(@RequestBody Account account) {
+        return new ResponseEntity<>(accountService.createAccount(account), HttpStatus.CREATED);
+    }
+
+    @GetMapping("/{id}")
+    public ResponseEntity<Account> get(@PathVariable Long id) {
+        return ResponseEntity.ok(accountService.getAccount(id));
+    }
+
+    @PutMapping("/{id}/balance")
+    public ResponseEntity<Account> updateBalance(
+            @PathVariable Long id,
+            @RequestParam BigDecimal amount) {
+
+        return ResponseEntity.ok(accountService.updateBalance(id, amount));
+    }
+
+    @PutMapping("/{id}/freeze")
+    public ResponseEntity<Account> freeze(@PathVariable Long id) {
+        return ResponseEntity.ok(accountService.freezeAccount(id));
+    }
+
+    @PutMapping("/{id}/unfreeze")
+    public ResponseEntity<Account> unfreeze(@PathVariable Long id) {
+        return ResponseEntity.ok(accountService.unfreezeAccount(id));
+    }
+    public ResponseEntity<Account> getAll(@PathVariable){
+    	
+    }
+}

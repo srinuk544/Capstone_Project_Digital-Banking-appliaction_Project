@@ -1,0 +1,10 @@
+server:
+  port: 8761   # Eureka server will run on port 8761
+
+spring:
+  application:
+    name: 1-Service-Registery
+
+eureka:
+  client:
+    register-with-eureka: false

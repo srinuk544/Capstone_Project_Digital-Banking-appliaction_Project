@@ -1,0 +1,5 @@
+public class AccountResponse {
+    private Long accountId;
+    private BigDecimal balance;
+    private String status;
+}

@@ -1,0 +1,6 @@
+package com.example.demo.dto;
+public class AccountResponse {
+    private Long accountId;
+    private BigDecimal balance;
+    private String status;
+}
