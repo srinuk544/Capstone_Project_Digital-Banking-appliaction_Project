@@ -33,7 +33,7 @@ public class AccountService {
                 .orElseThrow(() -> new RuntimeException("Account not found"));
     }
 
-    // ✅ GET ALL ACCOUNTS
+ 
     public List<Account> getAllAccounts() {
         return accountRepository.findAll();
     }

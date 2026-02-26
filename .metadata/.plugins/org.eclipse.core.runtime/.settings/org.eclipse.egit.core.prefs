@@ -1,2 +1,5 @@
+GitRepositoriesView.GitDirectories=C\:\\Capstoneproject\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
 core_autoIgnoreDerivedResources=false
+core_ssh_default_agent=\\\\.\\pageant
 eclipse.preferences.version=1

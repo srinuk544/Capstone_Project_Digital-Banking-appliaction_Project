@@ -5,70 +5,90 @@ import com.example.demo.dto.AccountResponse;
 import com.example.demo.dto.TransactionRequest;
 import com.example.demo.entity.*;
 import com.example.demo.repo.TransactionRepository;
+import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
 import java.util.List;
-import java.util.Map;
 
 @Service
 public class TransactionService {
 
-    @Autowired
-    private TransactionRepository repository;
+	@Autowired
+	private TransactionRepository repository;
 
-    @Autowired
-    private AccountClient accountClient;
+	@Autowired
+	private AccountClient accountClient;
 
-    @Transactional
-    public Transaction deposit(TransactionRequest request) {
+	private static final String ACCOUNT_SERVICE = "accountService";
 
-        AccountResponse account =
-                accountClient.getAccount(request.accountId);
+	@Transactional
+	@CircuitBreaker(name = ACCOUNT_SERVICE, fallbackMethod = "depositFallback")
+	public Transaction deposit(TransactionRequest request) {
 
-        BigDecimal balance = account.getBalance();
+		AccountResponse account = accountClient.getAccount(request.accountId);
 
-        BigDecimal newBalance = balance.add(request.amount);
+		BigDecimal balance = account.getBalance();
+		BigDecimal newBalance = balance.add(request.amount);
 
-        accountClient.updateBalance(request.accountId, newBalance);
+		accountClient.updateBalance(request.accountId, newBalance);
 
-        Transaction tx = new Transaction();
-        tx.setAccountId(request.accountId);
-        tx.setAmount(request.amount);
-        tx.setType(TransactionType.DEPOSIT);
-        tx.setBalanceAfter(newBalance);
+		Transaction tx = new Transaction();
+		tx.setAccountId(request.accountId);
+		tx.setAmount(request.amount);
+		tx.setType(TransactionType.DEPOSIT);
+		tx.setBalanceAfter(newBalance);
 
-        return repository.save(tx);
-    }
+		return repository.save(tx);
+	}
 
-    @Transactional
-    public Transaction withdraw(TransactionRequest request) {
+	
+	@Transactional
+	@CircuitBreaker(name = ACCOUNT_SERVICE, fallbackMethod = "withdrawFallback")
+	public Transaction withdraw(TransactionRequest request) {
 
-        AccountResponse account =
-                accountClient.getAccount(request.accountId);
+		AccountResponse account = accountClient.getAccount(request.accountId);
 
-        BigDecimal balance = account.getBalance();
+		BigDecimal balance = account.getBalance();
 
-        if (balance.compareTo(request.amount) < 0) {
-            throw new RuntimeException("Insufficient balance");
-        }
+		if (balance.compareTo(request.amount) < 0) {
+			throw new RuntimeException("Insufficient balance");
+		}
 
-        BigDecimal newBalance = balance.subtract(request.amount);
+		BigDecimal newBalance = balance.subtract(request.amount);
 
-        accountClient.updateBalance(request.accountId, newBalance);
+		accountClient.updateBalance(request.accountId, newBalance);
 
-        Transaction tx = new Transaction();
-        tx.setAccountId(request.accountId);
-        tx.setAmount(request.amount);
-        tx.setType(TransactionType.WITHDRAW);
-        tx.setBalanceAfter(newBalance);
+		Transaction tx = new Transaction();
+		tx.setAccountId(request.accountId);
+		tx.setAmount(request.amount);
+		tx.setType(TransactionType.WITHDRAW);
+		tx.setBalanceAfter(newBalance);
 
-        return repository.save(tx);
-    }
+		return repository.save(tx);
+	}
 
-    public List<Transaction> history(Long accountId) {
-        return repository.findByAccountId(accountId);
-    }
+	
+
+	public List<Transaction> history(Long accountId) {
+		return repository.findByAccountId(accountId);
+	}
+
+	public List<Transaction> getAllTransactions() {
+		return repository.findAll();
+	}
+
+	// ------------------ FALLBACK METHODS ------------------
+
+	public Transaction depositFallback(TransactionRequest request, Exception ex) {
+
+		throw new RuntimeException("Account Service is down. Please try again later.");
+	}
+
+	public Transaction withdrawFallback(TransactionRequest request, Exception ex) {
+
+		throw new RuntimeException("Account Service is down. Withdrawal failed.");
+	}
 }

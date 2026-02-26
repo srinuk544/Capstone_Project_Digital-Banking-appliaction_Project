@@ -29,6 +29,10 @@ public class TransactionController {
     public List<Transaction> history(@PathVariable Long accountId) {
         return service.history(accountId);
     }
+    @GetMapping
+    public List<Transaction> getAllTransactions() {
+        return service.getAllTransactions();
+    }
 }
 
 

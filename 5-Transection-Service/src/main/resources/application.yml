@@ -39,3 +39,13 @@ management:
   tracing:
     sampling:
       probability: 1.0
+      
+      resilience4j:
+  circuitbreaker:
+    instances:
+      accountService:
+        registerHealthIndicator: true
+        slidingWindowSize: 5
+        failureRateThreshold: 50
+        waitDurationInOpenState: 10s
+        permittedNumberOfCallsInHalfOpenState: 2

@@ -78,5 +78,5 @@ public class Transaction {
 
     private LocalDateTime timestamp = LocalDateTime.now();
 
-    // getters & setters
+
 }
