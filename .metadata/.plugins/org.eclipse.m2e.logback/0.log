@@ -8478,3 +8478,281 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: only whites
 2026-02-27 10:40:21,946 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2026-02-27 10:40:21,991 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2026-02-27 10:40:22,008 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\5-Transection-Service\src\test\resources
+2026-03-05 18:46:29,774 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-03-05 19:19:19,906 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 19:19:19,973 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 19:19:19,984 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\3-Auth-Service\src\test\resources
+2026-03-05 19:22:55,952 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 19:22:55,956 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 19:22:55,959 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\3-Auth-Service\src\test\resources
+2026-03-05 19:23:57,898 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:auth-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\3-Auth-Service\pom.xml.
+2026-03-05 19:23:58,978 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 19:23:58,979 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 19:23:58,982 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\3-Auth-Service\src\test\resources
+2026-03-05 19:30:37,316 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 19:30:37,332 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 19:30:37,334 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\4-Account-Service\src\test\resources
+2026-03-05 19:30:45,253 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 19:30:45,256 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 19:30:45,258 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\4-Account-Service\src\test\resources
+2026-03-05 19:31:55,728 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 19:31:55,733 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 19:31:55,735 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\4-Account-Service\src\test\resources
+2026-03-05 19:32:03,510 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 19:32:03,516 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 19:32:03,520 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\4-Account-Service\src\test\resources
+2026-03-05 19:33:02,032 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 19:33:02,036 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 19:33:02,038 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\4-Account-Service\src\test\resources
+2026-03-05 19:37:57,281 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 19:37:57,301 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 19:37:57,304 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\5-Transection-Service\src\test\resources
+2026-03-05 20:02:48,351 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-03-05 21:32:42,433 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-03-05 21:32:49,492 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:1-Service-Registery:0.0.1-SNAPSHOT @ C:\Capstoneproject\1-Service-Registery\pom.xml.
+2026-03-05 21:32:51,414 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:2-Admin-Server:0.0.1-SNAPSHOT @ C:\Capstoneproject\2-Admin-Server\pom.xml.
+2026-03-05 21:32:53,878 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:auth-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\3-Auth-Service\pom.xml.
+2026-03-05 21:32:55,336 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:account-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\4-Account-Service\pom.xml.
+2026-03-05 21:32:56,773 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:transaction-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\5-Transection-Service\pom.xml.
+2026-03-05 21:32:57,268 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:api-gateway:0.0.1-SNAPSHOT @ C:\Capstoneproject\6-API-GateWay\pom.xml.
+2026-03-05 21:32:58,241 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:Config-Server:0.0.1-SNAPSHOT @ C:\Capstoneproject\Config-Server\pom.xml.
+2026-03-05 21:33:04,756 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /1-Service-Registery/src/main/java
+2026-03-05 21:33:04,757 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1-Service-Registery/src/main/resources
+2026-03-05 21:33:04,757 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1-Service-Registery/src/main/resources
+2026-03-05 21:33:04,759 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /1-Service-Registery/src/test/java
+2026-03-05 21:33:04,759 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1-Service-Registery/src/test/resources
+2026-03-05 21:33:05,046 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2-Admin-Server/src/main/java
+2026-03-05 21:33:05,046 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/main/resources
+2026-03-05 21:33:05,046 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/main/resources
+2026-03-05 21:33:05,046 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2-Admin-Server/src/test/java
+2026-03-05 21:33:05,046 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/test/resources
+2026-03-05 21:33:05,234 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /3-Auth-Service/src/main/java
+2026-03-05 21:33:05,234 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /3-Auth-Service/src/main/resources
+2026-03-05 21:33:05,234 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /3-Auth-Service/src/main/resources
+2026-03-05 21:33:05,234 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /3-Auth-Service/src/test/java
+2026-03-05 21:33:05,234 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /3-Auth-Service/src/test/resources
+2026-03-05 21:33:05,553 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4-Account-Service/src/main/java
+2026-03-05 21:33:05,553 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /4-Account-Service/src/main/resources
+2026-03-05 21:33:05,553 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /4-Account-Service/src/main/resources
+2026-03-05 21:33:05,553 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4-Account-Service/src/test/java
+2026-03-05 21:33:05,553 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /4-Account-Service/src/test/resources
+2026-03-05 21:33:05,849 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5-Transection-Service/src/main/java
+2026-03-05 21:33:05,849 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /5-Transection-Service/src/main/resources
+2026-03-05 21:33:05,850 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /5-Transection-Service/src/main/resources
+2026-03-05 21:33:05,850 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5-Transection-Service/src/test/java
+2026-03-05 21:33:05,850 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /5-Transection-Service/src/test/resources
+2026-03-05 21:33:06,385 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /6-API-GateWay/src/main/java
+2026-03-05 21:33:06,385 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /6-API-GateWay/src/main/resources
+2026-03-05 21:33:06,386 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /6-API-GateWay/src/main/resources
+2026-03-05 21:33:06,387 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /6-API-GateWay/src/test/java
+2026-03-05 21:33:06,387 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /6-API-GateWay/src/test/resources
+2026-03-05 21:33:06,894 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Config-Server/src/main/java
+2026-03-05 21:33:06,894 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Config-Server/src/main/resources
+2026-03-05 21:33:06,895 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Config-Server/src/main/resources
+2026-03-05 21:33:06,896 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Config-Server/src/test/java
+2026-03-05 21:33:06,896 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Config-Server/src/test/resources
+2026-03-05 21:33:07,914 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 7 poms: local refresh takes 0.00 sec, refresh facades takes 21.00 sec, update config takes 2.00 sec 
+2026-03-05 21:33:08,353 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:33:08,407 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:33:08,413 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\1-Service-Registery\src\test\resources
+2026-03-05 21:33:08,865 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:33:08,918 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:33:08,925 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\2-Admin-Server\src\test\resources
+2026-03-05 21:33:10,173 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:33:10,194 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:33:10,201 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\3-Auth-Service\src\test\resources
+2026-03-05 21:33:10,608 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:33:10,650 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:33:10,653 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\4-Account-Service\src\test\resources
+2026-03-05 21:33:11,012 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:33:11,040 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:33:11,046 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\5-Transection-Service\src\test\resources
+2026-03-05 21:33:11,379 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:33:11,411 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:33:11,416 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\6-API-GateWay\src\test\resources
+2026-03-05 21:33:11,651 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:33:11,683 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:33:11,690 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\Config-Server\src\test\resources
+2026-03-05 21:39:40,125 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-03-05 21:39:41,659 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:1-Service-Registery:0.0.1-SNAPSHOT @ C:\Capstoneproject\1-Service-Registery\pom.xml.
+2026-03-05 21:39:42,077 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:2-Admin-Server:0.0.1-SNAPSHOT @ C:\Capstoneproject\2-Admin-Server\pom.xml.
+2026-03-05 21:39:42,376 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:auth-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\3-Auth-Service\pom.xml.
+2026-03-05 21:39:42,629 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:account-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\4-Account-Service\pom.xml.
+2026-03-05 21:39:42,885 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:transaction-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\5-Transection-Service\pom.xml.
+2026-03-05 21:39:43,076 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:api-gateway:0.0.1-SNAPSHOT @ C:\Capstoneproject\6-API-GateWay\pom.xml.
+2026-03-05 21:39:43,242 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:Config-Server:0.0.1-SNAPSHOT @ C:\Capstoneproject\Config-Server\pom.xml.
+2026-03-05 21:39:44,989 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /1-Service-Registery/src/main/java
+2026-03-05 21:39:44,989 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1-Service-Registery/src/main/resources
+2026-03-05 21:39:44,989 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1-Service-Registery/src/main/resources
+2026-03-05 21:39:44,990 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /1-Service-Registery/src/test/java
+2026-03-05 21:39:44,990 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1-Service-Registery/src/test/resources
+2026-03-05 21:39:45,387 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2-Admin-Server/src/main/java
+2026-03-05 21:39:45,387 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/main/resources
+2026-03-05 21:39:45,387 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/main/resources
+2026-03-05 21:39:45,387 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2-Admin-Server/src/test/java
+2026-03-05 21:39:45,387 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/test/resources
+2026-03-05 21:39:45,649 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /3-Auth-Service/src/main/java
+2026-03-05 21:39:45,649 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /3-Auth-Service/src/main/resources
+2026-03-05 21:39:45,649 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /3-Auth-Service/src/main/resources
+2026-03-05 21:39:45,650 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /3-Auth-Service/src/test/java
+2026-03-05 21:39:45,650 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /3-Auth-Service/src/test/resources
+2026-03-05 21:39:46,078 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4-Account-Service/src/main/java
+2026-03-05 21:39:46,078 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /4-Account-Service/src/main/resources
+2026-03-05 21:39:46,078 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /4-Account-Service/src/main/resources
+2026-03-05 21:39:46,078 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4-Account-Service/src/test/java
+2026-03-05 21:39:46,079 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /4-Account-Service/src/test/resources
+2026-03-05 21:39:46,397 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5-Transection-Service/src/main/java
+2026-03-05 21:39:46,397 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /5-Transection-Service/src/main/resources
+2026-03-05 21:39:46,397 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /5-Transection-Service/src/main/resources
+2026-03-05 21:39:46,397 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5-Transection-Service/src/test/java
+2026-03-05 21:39:46,398 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /5-Transection-Service/src/test/resources
+2026-03-05 21:39:46,683 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /6-API-GateWay/src/main/java
+2026-03-05 21:39:46,684 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /6-API-GateWay/src/main/resources
+2026-03-05 21:39:46,684 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /6-API-GateWay/src/main/resources
+2026-03-05 21:39:46,684 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /6-API-GateWay/src/test/java
+2026-03-05 21:39:46,684 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /6-API-GateWay/src/test/resources
+2026-03-05 21:39:47,063 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Config-Server/src/main/java
+2026-03-05 21:39:47,063 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Config-Server/src/main/resources
+2026-03-05 21:39:47,063 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Config-Server/src/main/resources
+2026-03-05 21:39:47,064 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Config-Server/src/test/java
+2026-03-05 21:39:47,064 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Config-Server/src/test/resources
+2026-03-05 21:39:48,188 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 7 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 2.00 sec 
+2026-03-05 21:39:48,488 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:39:48,508 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:39:48,512 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\1-Service-Registery\src\test\resources
+2026-03-05 21:39:48,670 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:39:48,683 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:39:48,686 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\2-Admin-Server\src\test\resources
+2026-03-05 21:39:49,045 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:39:49,056 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:39:49,061 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\3-Auth-Service\src\test\resources
+2026-03-05 21:39:49,504 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:39:49,516 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:39:49,519 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\4-Account-Service\src\test\resources
+2026-03-05 21:39:49,905 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:39:49,989 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:39:49,996 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\5-Transection-Service\src\test\resources
+2026-03-05 21:39:50,260 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:39:50,308 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:39:50,313 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\6-API-GateWay\src\test\resources
+2026-03-05 21:39:50,508 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 21:39:50,518 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 21:39:50,521 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\Config-Server\src\test\resources
+2026-03-05 23:18:57,699 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:18:57,708 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:18:57,709 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\2-Admin-Server\src\test\resources
+2026-03-05 23:19:14,562 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-03-05 23:19:14,781 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:2-Admin-Server:0.0.1-SNAPSHOT @ C:\Capstoneproject\2-Admin-Server\pom.xml.
+2026-03-05 23:19:15,201 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2-Admin-Server/src/main/java
+2026-03-05 23:19:15,201 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/main/resources
+2026-03-05 23:19:15,201 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/main/resources
+2026-03-05 23:19:15,202 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2-Admin-Server/src/test/java
+2026-03-05 23:19:15,202 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/test/resources
+2026-03-05 23:19:15,401 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-03-05 23:19:15,625 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:19:15,633 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:19:15,635 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\2-Admin-Server\src\test\resources
+2026-03-05 23:19:38,669 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:2-Admin-Server:0.0.1-SNAPSHOT @ C:\Capstoneproject\2-Admin-Server\pom.xml.
+2026-03-05 23:19:39,168 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:19:39,169 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:19:39,172 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\2-Admin-Server\src\test\resources
+2026-03-05 23:19:45,512 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-03-05 23:19:45,691 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:2-Admin-Server:0.0.1-SNAPSHOT @ C:\Capstoneproject\2-Admin-Server\pom.xml.
+2026-03-05 23:19:45,985 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2-Admin-Server/src/main/java
+2026-03-05 23:19:45,985 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/main/resources
+2026-03-05 23:19:45,985 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/main/resources
+2026-03-05 23:19:45,985 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2-Admin-Server/src/test/java
+2026-03-05 23:19:45,985 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/test/resources
+2026-03-05 23:19:46,169 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-03-05 23:19:46,403 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:19:46,409 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:19:46,411 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\2-Admin-Server\src\test\resources
+2026-03-05 23:22:10,811 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:account-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\4-Account-Service\pom.xml.
+2026-03-05 23:22:11,567 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:22:11,568 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:22:11,571 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\4-Account-Service\src\test\resources
+2026-03-05 23:23:43,480 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:transaction-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\5-Transection-Service\pom.xml.
+2026-03-05 23:23:44,396 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:23:44,396 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:23:44,399 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\5-Transection-Service\src\test\resources
+2026-03-05 23:24:11,859 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:24:11,865 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:24:11,866 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\6-API-GateWay\src\test\resources
+2026-03-05 23:24:51,585 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:api-gateway:0.0.1-SNAPSHOT @ C:\Capstoneproject\6-API-GateWay\pom.xml.
+2026-03-05 23:24:52,199 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:24:52,199 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:24:52,201 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\6-API-GateWay\src\test\resources
+2026-03-05 23:25:31,261 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:25:31,268 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:25:31,269 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\Config-Server\src\test\resources
+2026-03-05 23:26:12,713 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-03-05 23:26:13,841 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:1-Service-Registery:0.0.1-SNAPSHOT @ C:\Capstoneproject\1-Service-Registery\pom.xml.
+2026-03-05 23:26:14,190 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:2-Admin-Server:0.0.1-SNAPSHOT @ C:\Capstoneproject\2-Admin-Server\pom.xml.
+2026-03-05 23:26:14,368 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:auth-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\3-Auth-Service\pom.xml.
+2026-03-05 23:26:14,662 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:account-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\4-Account-Service\pom.xml.
+2026-03-05 23:26:14,835 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:transaction-service:0.0.1-SNAPSHOT @ C:\Capstoneproject\5-Transection-Service\pom.xml.
+2026-03-05 23:26:14,949 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:api-gateway:0.0.1-SNAPSHOT @ C:\Capstoneproject\6-API-GateWay\pom.xml.
+2026-03-05 23:26:15,059 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.demo:Config-Server:0.0.1-SNAPSHOT @ C:\Capstoneproject\Config-Server\pom.xml.
+2026-03-05 23:26:16,369 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /1-Service-Registery/src/main/java
+2026-03-05 23:26:16,369 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1-Service-Registery/src/main/resources
+2026-03-05 23:26:16,369 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1-Service-Registery/src/main/resources
+2026-03-05 23:26:16,371 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /1-Service-Registery/src/test/java
+2026-03-05 23:26:16,371 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1-Service-Registery/src/test/resources
+2026-03-05 23:26:16,724 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2-Admin-Server/src/main/java
+2026-03-05 23:26:16,724 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/main/resources
+2026-03-05 23:26:16,724 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/main/resources
+2026-03-05 23:26:16,724 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2-Admin-Server/src/test/java
+2026-03-05 23:26:16,724 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2-Admin-Server/src/test/resources
+2026-03-05 23:26:16,869 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /3-Auth-Service/src/main/java
+2026-03-05 23:26:16,869 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /3-Auth-Service/src/main/resources
+2026-03-05 23:26:16,869 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /3-Auth-Service/src/main/resources
+2026-03-05 23:26:16,869 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /3-Auth-Service/src/test/java
+2026-03-05 23:26:16,869 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /3-Auth-Service/src/test/resources
+2026-03-05 23:26:17,110 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4-Account-Service/src/main/java
+2026-03-05 23:26:17,110 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /4-Account-Service/src/main/resources
+2026-03-05 23:26:17,110 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /4-Account-Service/src/main/resources
+2026-03-05 23:26:17,110 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4-Account-Service/src/test/java
+2026-03-05 23:26:17,110 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /4-Account-Service/src/test/resources
+2026-03-05 23:26:17,358 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5-Transection-Service/src/main/java
+2026-03-05 23:26:17,358 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /5-Transection-Service/src/main/resources
+2026-03-05 23:26:17,358 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /5-Transection-Service/src/main/resources
+2026-03-05 23:26:17,358 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5-Transection-Service/src/test/java
+2026-03-05 23:26:17,358 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /5-Transection-Service/src/test/resources
+2026-03-05 23:26:17,933 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /6-API-GateWay/src/main/java
+2026-03-05 23:26:17,933 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /6-API-GateWay/src/main/resources
+2026-03-05 23:26:17,933 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /6-API-GateWay/src/main/resources
+2026-03-05 23:26:17,933 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /6-API-GateWay/src/test/java
+2026-03-05 23:26:17,933 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /6-API-GateWay/src/test/resources
+2026-03-05 23:26:18,225 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Config-Server/src/main/java
+2026-03-05 23:26:18,225 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Config-Server/src/main/resources
+2026-03-05 23:26:18,225 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Config-Server/src/main/resources
+2026-03-05 23:26:18,225 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Config-Server/src/test/java
+2026-03-05 23:26:18,225 [Worker-53: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Config-Server/src/test/resources
+2026-03-05 23:26:18,708 [Worker-53: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 7 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 2.00 sec 
+2026-03-05 23:26:19,030 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:26:19,043 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:26:19,045 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\1-Service-Registery\src\test\resources
+2026-03-05 23:26:19,234 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:26:19,256 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:26:19,261 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\2-Admin-Server\src\test\resources
+2026-03-05 23:26:19,548 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:26:19,565 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:26:19,568 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\3-Auth-Service\src\test\resources
+2026-03-05 23:26:19,847 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:26:19,859 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:26:19,862 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\4-Account-Service\src\test\resources
+2026-03-05 23:26:20,222 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:26:20,239 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:26:20,243 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\5-Transection-Service\src\test\resources
+2026-03-05 23:26:20,463 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:26:20,474 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:26:20,477 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\6-API-GateWay\src\test\resources
+2026-03-05 23:26:20,627 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:26:20,639 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:26:20,643 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\Config-Server\src\test\resources
+2026-03-05 23:26:34,764 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:26:34,772 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:26:34,775 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\3-Auth-Service\src\test\resources
+2026-03-05 23:26:34,902 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-05 23:26:34,908 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-05 23:26:34,910 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Capstoneproject\4-Account-Service\src\test\resources

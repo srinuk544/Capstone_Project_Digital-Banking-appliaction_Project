@@ -22,7 +22,7 @@
 
 	<dependencies>
 
-		<!-- Spring Cloud Gateway -->
+
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-gateway</artifactId>
@@ -37,13 +37,12 @@
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 		</dependency>
 
-		<!-- Spring Security (for JWT filter) -->
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 
-		<!-- JWT -->
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
 			<artifactId>jjwt-api</artifactId>
@@ -62,26 +61,25 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- Actuator (REQUIRED for Admin & Zipkin) -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
 
-		<!-- Spring Boot Admin Client -->
+
 		<dependency>
 			<groupId>de.codecentric</groupId>
 			<artifactId>spring-boot-admin-starter-client</artifactId>
 			<version>3.2.1</version>
 		</dependency>
 
-		<!-- Micrometer Tracing -->
+
 		<dependency>
 			<groupId>io.micrometer</groupId>
 			<artifactId>micrometer-tracing-bridge-brave</artifactId>
 		</dependency>
 
-		<!-- Zipkin Reporter -->
+
 		<dependency>
 			<groupId>io.zipkin.reporter2</groupId>
 			<artifactId>zipkin-reporter-brave</artifactId>
